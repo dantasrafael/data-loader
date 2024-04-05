@@ -6,7 +6,8 @@
 
 ## Configurações
 
-> Pasta dos scripts SQL (./sql)
+> Pasta dos scripts SQL:
+- ./sql
 
 > Exemplo de Env File (.env):
 - DB_HOST=localhost
